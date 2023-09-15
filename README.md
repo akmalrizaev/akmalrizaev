@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Akmal+Rizaev;A+passionate+FullStack+Developer)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Akmal Rizaev</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 
