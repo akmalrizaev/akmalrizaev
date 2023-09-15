@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Akmal+Rizaev;A+passionate+FullStack+Developer)](https://git.io/typing-svg)
 
-<!--- <h1 align="center">Hi 👋, I'm Akmal Rizaev</h1>
-<h3 align="center">A passionate FullStack Developer</h3> --->
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
