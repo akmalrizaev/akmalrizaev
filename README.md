@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akmalrizaev&show_icons=true&locale=en" alt="akmalrizaev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akmalrizaev&" alt="akmalrizaev" /></p>
+
+![Codewars](https://github.r2v.ch/codewars?user=akmalrizaev&stroke=%23BB432C)
