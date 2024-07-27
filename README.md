@@ -29,6 +29,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akmalrizaev&" alt="akmalrizaev" /></p>
 
 ![Codewars](https://github.r2v.ch/codewars?user=akmalrizaev&stroke=%23BB432C)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/akmalrizaev?theme=light&font=Cardo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/akmalrizaev?theme=dark&font=Cardo)
 
 
