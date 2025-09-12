@@ -13,7 +13,7 @@
 
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akmalrizaev" alt="akmalrizaev" /></a> </p>  --->
 
-- 🌱 I’m currently learning **Fullstack Javascript(Typescript)**
+- 🌱 I’m currently learning **Fullstack Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
